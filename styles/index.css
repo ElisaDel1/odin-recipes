@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 209, 214);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+    background-color: rgb(247, 241, 252);
+    margin: 50px;
+    height: 300px;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 2rem;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    color: rgb(92, 79, 79);
+}
+
+ul {
+    list-style: none;
+    
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: pink;
+    font-size: 1.2rem;
+}
